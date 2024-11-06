@@ -1,0 +1,43 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 22,
+      "email": "jane.smith@example.com",
+      "image": "https://i.pravatar.cc/150?img=2",
+      "hobbies": [
+        "Drawing",
+        "Hiking",
+        "Cooking",
+        "Traveling"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "age": 21,
+      "email": "emily.davis@example.com",
+      "image": "https://i.pravatar.cc/150?img=4",
+      "hobbies": [
+        "Yoga",
+        "Photography",
+        "Gardening",
+        "Writing"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chris Brown",
+      "age": 23,
+      "email": "chris.brown@example.com",
+      "image": "https://i.pravatar.cc/150?img=5",
+      "hobbies": [
+        "Cycling",
+        "Chess",
+        "Cooking",
+        "Reading"
+      ]
+    }
+  ]
+}
