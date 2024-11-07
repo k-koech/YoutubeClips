@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "email": "john.doe@example.com",
+      "image": "https://i.pravatar.cc/150?img=1",
+      "hobbies": false
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "age": 21,
+      "email": "emily.davis@example.com",
+      "image": "https://i.pravatar.cc/150?img=4",
+      "hobbies": [
+        "Yoga",
+        "Photography",
+        "Gardening",
+        "READING"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chris Brown",
+      "age": 23,
+      "email": "chris.brown@example.com",
+      "image": "https://i.pravatar.cc/150?img=5",
+      "hobbies": [
+        "Cycling",
+        "Chess",
+        "Cooking",
+        "Reading"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Sarah Wilson",
+      "age": 20,
+      "email": "sarah.wilson@example.com",
+      "image": "https://i.pravatar.cc/150?img=6",
+      "hobbies": [
+        "Painting",
+        "Dancing",
+        "Swimming",
+        "Volunteering"
+      ]
+    },
+    {
+      "id": "e63d",
+      "email": "ghfdgh@ghmail.com",
+      "name": "sassssssds",
+      "age": "56",
+      "image": "https://i.pravatar.cc/150?img=6",
+      "hobbies": [
+        "srfae",
+        "asefae",
+        "ef"
+      ]
+    },
+    {
+      "id": "684c",
+      "email": "sdrgse@gmail.com",
+      "name": "jhgffffffhj",
+      "age": "6543",
+      "image": "https://i.pravatar.cc/150?img=6",
+      "hobbies": [
+        12,
+        123,
+        12,
+        1231
+      ]
+    },
+    {
+      "id": "7596",
+      "email": "jhfgdgh@hh.xom",
+      "name": "kjytfdr",
+      "age": "76",
+      "image": "https://i.pravatar.cc/150?img=6",
+      "hobbies": [
+        "play",
+        " football",
+        " watching"
+      ]
+    }
+  ]
+}

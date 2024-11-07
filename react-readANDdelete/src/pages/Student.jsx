@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
+import { toast } from 'react-toastify'
 
 export default function Student() 
 {
@@ -23,7 +24,9 @@ export default function Student()
       .then((res)=>res.json() )
       .then((data)=>{
          console.log("success")
-         nav("/")
+         nav("/")        
+         toast.success("Deleted successfully!")
+
       })
     }
     
